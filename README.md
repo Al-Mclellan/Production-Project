@@ -7,6 +7,8 @@ This README.md will be used to keep track of the progress of the project, each c
 Project idea: To create a hacktivity module that creates a vulnerable system with a software that hasn't been created before using Puppet.
 
 ### TO-DO:
+- Start Filling in Risk Register and GAIT Document. (Start Soon: [10/10/2024])
+- Start Specification Document to be submitted in November 2024.
 - Write about what documents to look as research.
 - Begin the report required alongside the project.
 - Look at setting up a vulnerable system using puppet to get a grasp of how puppet functions
