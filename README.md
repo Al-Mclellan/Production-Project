@@ -7,6 +7,8 @@ This README.md will be used to keep track of the progress of the project, each c
 Project idea: To create a hacktivity module that creates a vulnerable system with a software that hasn't been created before using Puppet.
 
 ### TO-DO:
+- Create a Working Title based on the idea.
+- Look at Aims and Expectations of the project.
 - Start Filling in Risk Register and GAIT Document. (Start Soon: [10/10/2024])
 - Start Specification Document to be submitted in November 2024.
 - Write about what documents to look as research.
@@ -15,3 +17,10 @@ Project idea: To create a hacktivity module that creates a vulnerable system wit
 - Look at completed puppet modules on the Sec-Gen Github, to get an idea of how the XML files are written.
 - Create a functioning XML script then look at improving the sec-gen areas of the script.
 More ToDos will be added as the project continues.
+
+### Working Path:
+- Look at setting up a puppet module on a VM set. (Setup explained via PP sent by Cliffe).
+- Look at Metasploit Database for Linux-Based Exploits with specific software.
+- Research Software for plausibility of aquiring the vulnerable software.
+- Attempt to set up the software manually to see the difficulty of setup.
+- Once the VMs can be exploited using the vulnerability, look at starting the XML puppet module to automate the process prior.
