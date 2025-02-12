@@ -16,6 +16,10 @@ Project idea: To create a hacktivity module that creates a vulnerable system wit
 - Look at setting up a vulnerable system using puppet to get a grasp of how puppet functions
 - Look at completed puppet modules on the Sec-Gen Github, to get an idea of how the XML files are written.
 - Create a functioning XML script then look at improving the sec-gen areas of the script.
+- Research 5 Vulnerable Softwares, record them to a document/table.
+- Write Literature Reviews for papers to support my research into the project.
+- Research the puppet modules and how they function. 
+
 More ToDos will be added as the project continues.
 
 ### USEFUL LINKS: 
