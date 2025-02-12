@@ -27,7 +27,7 @@ More ToDos will be added as the project continues.
 
 ### Working Path:
 - Look at setting up a puppet module on a VM set. (Setup explained via PP sent by Cliffe).
-- Look at Metasploit Database for Linux-Based Exploits with specific software.
+- Look at ~Metasploit Database~ Exploit-DB for Linux-Based Exploits with specific software.
 - Research Software for plausibility of aquiring the vulnerable software.
 - Attempt to set up the software manually to see the difficulty of setup.
 - Once the VMs can be exploited using the vulnerability, look at starting the XML puppet module to automate the process prior.
