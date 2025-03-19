@@ -21,6 +21,13 @@ Looked at VulnHub but decided against using that repo as it didnt contain any vu
 - Attempt to setup the vulnerability on the server and attempt to exploit it, keeping note of the steps taken to set it up.
 - Write Literature reviews for the report.
 - Look at writing some technology reviews for the equipment used: Vuln Software?, Hacktivity?, Puppet? and Exploit-DB?
-
 ## Feb 2025 Results: 
-
+- Chose 5 Vulnerabilities to look into
+- Wrote a 1000 word Literature review.
+- Started setting up the Haraka Mail Server.
+- Didn't make a doc for the vuln software, plans to create readmes for each system.
+## March 2025:
+- Complete Haraka Setup and then create a puppet module.
+- Look at the others hopefully quicker setup and create documentation for setup.
+- Write Technology review and Methodology review.
+## March 2025 Results
