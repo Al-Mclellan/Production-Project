@@ -1,0 +1,3 @@
+class haraka::config{
+
+}
