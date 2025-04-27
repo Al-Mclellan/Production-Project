@@ -18,7 +18,7 @@ file { "/usr/local/src/node_modules.zip":
 exec { 'unzip node modules':
 	cwd => '/usr/local/src',
 	command => "unzip node_modules.zip -d /usr/local/lib",
-	creates => "/usr/local/lib/node_modules,
+	creates => "/usr/local/lib/node_modules",
 }
 
 }
